@@ -1,0 +1,4 @@
+participant_id	age	sex	group	handedness	additional_languages
+sub-1001	28	M	control	R	English, Hebrew
+sub-1002	34	F	patient	R	English, Russian
+sub-1003	25	M	control	R	English

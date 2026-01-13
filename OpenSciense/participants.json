@@ -1,0 +1,31 @@
+{
+    "age": {
+        "Description": "Age of participant at time of data collection",
+        "Units": "years"
+    },
+    "sex": {
+        "Description": "Biological sex of participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "group": {
+        "Description": "Experimental group assignment",
+        "Levels": {
+            "control": "Control group participants",
+            "patient": "Patient group participants"
+        }
+    },
+    "handedness": {
+        "Description": "Dominant hand of participant",
+        "Levels": {
+            "R": "right-handed",
+            "L": "left-handed"
+        }
+    },
+    "additional_languages": {
+        "Description": "Additional languages spoken by participant at basic conversational level or above",
+        "LongName": "Additional Languages"
+    }
+}

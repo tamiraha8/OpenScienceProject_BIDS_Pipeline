@@ -1,0 +1,6 @@
+1.0.0 2026-01-03
+
+  - Initial release of neuroimaging volumetric analysis dataset
+  - 3 participants with pre/post measurements
+  - Brain volumetric measurements using Brainnetome Atlas parcellation
+  - BIDS derivative format implementation

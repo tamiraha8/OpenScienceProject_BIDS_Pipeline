@@ -1,0 +1,29 @@
+{
+    "region": {
+        "LongName": "Brain Region",
+        "Description": "Brainnetome Atlas (BNA) region label"
+    },
+    "hemisphere": {
+        "LongName": "Hemisphere",
+        "Description": "Brain hemisphere",
+        "Levels": {
+            "L": "Left hemisphere",
+            "R": "Right hemisphere"
+        }
+    },
+    "gray_matter_volume": {
+        "LongName": "Gray Matter Volume",
+        "Description": "Volume of gray matter tissue in the region",
+        "Units": "mm^3"
+    },
+    "white_matter_volume": {
+        "LongName": "White Matter Volume",
+        "Description": "Volume of white matter tissue in the region",
+        "Units": "mm^3"
+    },
+    "csf_volume": {
+        "LongName": "Cerebrospinal Fluid Volume",
+        "Description": "Volume of CSF in the region",
+        "Units": "mm^3"
+    }
+}

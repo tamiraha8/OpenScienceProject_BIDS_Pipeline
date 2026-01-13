@@ -1,0 +1,4 @@
+subject num,is_female,is_right_handed,age,additional_languages
+1001,0,1,28,"English, Hebrew"
+1002,1,1,34,"English, Russian"
+1003,0,1,25,English

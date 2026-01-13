@@ -1,0 +1,31 @@
+{
+    "Name": "Neuroimaging Volumetric Analysis Dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "License": "CC0",
+    "Authors": [
+        "Research Team"
+    ],
+    "Acknowledgements": "This dataset contains brain volumetric measurements derived from structural MRI scans.",
+    "HowToAcknowledge": "Please cite this dataset if used in publications.",
+    "Funding": [
+        "N/A"
+    ],
+    "ReferencesAndLinks": [
+        "https://github.com/bids-standard/bids-specification"
+    ],
+    "DatasetDOI": "N/A",
+    "GeneratedBy": [
+        {
+            "Name": "Brainnetome Atlas (BNA) Parcellation",
+            "Version": "1.0",
+            "Description": "Brain volumetric measurements extracted using BNA parcellation scheme"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "N/A",
+            "Version": "1.0"
+        }
+    ]
+}

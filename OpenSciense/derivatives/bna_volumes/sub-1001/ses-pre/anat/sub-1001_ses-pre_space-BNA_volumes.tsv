@@ -1,0 +1,17 @@
+region	hemisphere	gray_matter_volume	white_matter_volume	csf_volume
+A8m	L	2.82	0.98	0.54
+A8m	R	3.71	1.04	0.82
+A9l	L	2.78	0.62	1.21
+A9l	R	3.13	0.87	1.4
+A6dl	L	2.43	1.18	0.78
+A6dl	R	2.49	0.88	1.11
+A10m	L	4.19	1.72	1.04
+A10m	R	3.91	1.25	1.15
+mAmyg	L	1.45	0.68	0.3
+mAmyg	R	1.26	0.57	0.25
+lAmyg	L	1.27	0.38	0.44
+lAmyg	R	1.37	0.43	0.27
+rHipp	L	0.94	0.32	0.36
+rHipp	R	1.36	0.55	0.49
+cHipp	L	0.89	0.5	0.08
+cHipp	R	1.13	0.64	0.16

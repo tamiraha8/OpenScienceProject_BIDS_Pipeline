@@ -1,0 +1,21 @@
+{
+    "Name": "BNA Volumetric Measurements",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "Brainnetome Atlas Parcellation Pipeline",
+            "Version": "1.0",
+            "Description": "Automated extraction of brain region volumes using BNA atlas",
+            "CodeURL": "N/A"
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "DOI": "N/A",
+            "URL": "N/A",
+            "Version": "1.0"
+        }
+    ],
+    "HowToAcknowledge": "Please cite the Brainnetome Atlas in publications using this data."
+}
